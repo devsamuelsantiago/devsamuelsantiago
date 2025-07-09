@@ -4,12 +4,6 @@
 ### <div>My name is Samuel Santiago, I'm 17yo and I'm a full-stack freelance developer working remotely since 2022 ☄️</div>  
   
 
-- 🔭 I’m searching for jobs  
-  
-
-- 🌱 I’m currently learning Angular, NestJS and PostgreSQL  
-  
-
 <br/>  
 
 
