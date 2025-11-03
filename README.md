@@ -1,7 +1,7 @@
 ### **<div align="center">Hello!</div>**
   
 
-### <div>My name is Samuel Santiago, I'm 17yo and I'm a full-stack freelance developer working remotely since 2022 ☄️</div>  
+### <div>My name is Samuel Santiago, I'm a full-stack developer working since 2022 ☄️</div>  
   
 
 <br/>  
